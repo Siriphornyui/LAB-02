@@ -90,7 +90,7 @@
 
 จากการทดลองข้างบนจะได้ผลดังรูปนี้
 
-<img>http://www.uppic.org/image-87C8_580455EB.jpg 
+<img> https://github.com/Siriphornyui/LAB-02/blob/master/03.jpg</img>
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 ##คำถาม 
